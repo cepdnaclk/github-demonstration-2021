@@ -4,4 +4,4 @@ def trangelArea(a, b):
     return (a*b)/2
 
 def squareArea(a):
-    return (a+a)*(a+a)/4
+    return a*a
