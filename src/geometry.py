@@ -1,7 +1,7 @@
 import os
 
 def trangelArea(a, b):
-    return 0
+    return a*b
 
 def squareArea(a):
     return 0
